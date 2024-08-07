@@ -5,7 +5,7 @@ import {
 
 const AboutUs = () => {
     return (
-        <div className="flex-col  item-center md:mt-[40px]" >
+        <div id="about" className="flex-col  item-center md:mt-[40px]" >
 
                 <TextRevealCard
                 className="w-[100%] md:text-[40px] text-[22px] bg-transparent border-none text-center flex item-center justify-center"

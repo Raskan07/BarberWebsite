@@ -9,7 +9,7 @@ import {Info} from "./components/Info"
 export default function Home() {
   return (
     <div className=" relative flex flex-col flex-1 items-center justify-center ">
-      <FloatingNav navItems={navItems} />
+      <FloatingNav navItems={navItems}  />
       <Hero />
       <div className="w-[90%] flex item-center flex-col ">
         <AboutUs />

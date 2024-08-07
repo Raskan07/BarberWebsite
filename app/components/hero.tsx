@@ -36,7 +36,7 @@ const Hero = () => {
       ];
 
     return(
-        <main className="w-full item-center flex flex-col item-center">
+        <main id="#home" className="w-full item-center flex flex-col item-center">
             <AuroraBackground className="flex item-center h-[48vh] md:h-[100vh]">
                 <img  src="./new.png" className="size-[220px] md:size-[300px] lg:size-[340px] "/>
                 <div className="flex  flex-col flex-1 item-center justify-center md:mt-[-160px]  mt-[-40px] ">

@@ -17,7 +17,7 @@ export function Service() {
     "https://cdn.pixabay.com/photo/2017/07/15/21/00/sign-2507732_960_720.jpg",
   ];
   return (
-    <div className="w-full h-[100vh]  ">
+    <div className="w-full h-[100vh]  " id="service">
       <ImagesSlider className="h-[40rem] stciky top-0" images={list}>
         <motion.div
           initial={{
@@ -94,7 +94,7 @@ export function Service() {
 
       {/* FeedBack from Our Customer */}
       <FeedBack />
-      <Footer />
+      <Footer  />
 
     </div>
   );
