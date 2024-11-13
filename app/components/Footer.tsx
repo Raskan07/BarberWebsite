@@ -36,13 +36,13 @@ const Footer = () => {
           <div className="flex flex-row gap-5 item-center pt-2">
             <EmailIcon className="size-[30px] text-yellow-400" />
             <p className="text-white font-semibold text-[22px] text-gray-400 ">
-              info@voguemensalon.com
+              raskanr.j07@gamil.com
             </p>
           </div>
           <div className="flex flex-row gap-5 item-center pt-2">
             <CallIcon className="size-[30px] text-yellow-400" />
             <p className="text-white font-semibold text-[22px] text-gray-400 ">
-              0097466531266
+              +94 742920155
             </p>
           </div>
           <div className="flex flex-row gap-5 item-center pt-2">
