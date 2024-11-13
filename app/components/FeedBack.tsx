@@ -43,7 +43,7 @@ function FeedBack() {
       <TypewriterEffect words={words} className="md:w-[800px]  text-center item-center text-[30px]   " />      </div>
       {/* infinte image scroll */}
 
-      <div className="w-[90%] flex item-center mt-24">
+      <div className="w-[100%] flex item-center mt-24 justify-center">
       <InfiniteMovingCards
         className="mb-10"
         items={feedbackData}
